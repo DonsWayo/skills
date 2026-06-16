@@ -1,0 +1,19 @@
+{
+  "name": "donswayo-skills",
+  "owner": {
+    "name": "DonsWayo"
+  },
+  "plugins": [
+    {
+      "name": "apple-container",
+      "source": "./",
+      "description": "Run Linux containers on macOS with Apple's container CLI — the per-VM, Apple-silicon-native alternative to Docker Desktop. Commands, networking/DNS, Docker migration, Container-Compose, and troubleshooting.",
+      "version": "1.0.0",
+      "author": {
+        "name": "DonsWayo"
+      },
+      "category": "devtools",
+      "tags": ["containers", "macos", "apple-silicon", "docker", "devops"]
+    }
+  ]
+}
